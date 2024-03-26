@@ -1,5 +1,5 @@
-Aplication : Halal Trace
-Wastra Kriya Team
+<h1>Wastra Kriya Team</h1>
+<b>Halal Trace</b>
 1. Siti Sa'ada Tulfitri (Hustler)
 2. Miranda Dewi (Hispter)
 3. M Zulfan Fahreza (Hispter)
